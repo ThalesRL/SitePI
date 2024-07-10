@@ -116,6 +116,11 @@ li:hover {
 }
 
 .img {
+  width: 50%;
+  height: 30%;
+}
+
+.imgequipe {
   width: 90%;
   height: 30%;
 }
@@ -214,6 +219,6 @@ section {
 }
 
 .icone {
-  width: 100%;
+  width: 70%;
   height: 30%;
 }
